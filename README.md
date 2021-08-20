@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jc-cedric
+- 👋 Hi, I’m Cédric HAZOUME
 - 👀 I’m a Software Engineer
 - 📫 Reach me out at cedric.hazoume@gmail.com
 
