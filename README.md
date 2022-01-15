@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cédric HAZOUME
-- 👀 I’m a Software Engineer
-- 📫 Reach me out at cedric.hazoume@gmail.com
+- 👀 I’m a FullStack Software Engineer
+- 📫 You can join me at cedric.hazoume@gmail.com
 
 <!---
 jc-cedric/jc-cedric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
