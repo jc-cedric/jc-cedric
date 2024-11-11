@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cédric HAZOUME
-- 👀 I’m a FullStack Software Engineer and a Data Scientist
+- 👀 I’m a FullStack Software Engineer, Data Scientist and AI & Big Data Engineer
 - 📫 You can join me at cedric.hazoume@gmail.com
 
 <!---
